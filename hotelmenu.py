@@ -5,7 +5,7 @@ menu ={
     "choclate":70,
     "dhosa":120
 }
-print("welcome to my restarunt !")
+# print("welcome to my restarunt !")
 print("coffe: Rs150\npizza: Rs120\ncoldrinks: Rs40\nchoclate: Rs70\ndhosa: Rs120")
 
 order_total=0
